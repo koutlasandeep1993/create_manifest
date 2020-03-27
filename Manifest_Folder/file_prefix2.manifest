@@ -1,0 +1,8 @@
+{
+"entries":[
+{"url":"s3://bucket/folder2/raw/file_prefix2_20200323012111.csv"},
+{"url":"s3://bucket/folder2/raw/file_prefix2_20200323012222.csv"},
+{"url":"s3://bucket/folder2/raw/file_prefix2_20200323012333.csv"},
+{"url":"s3://bucket/folder2/raw/file_prefix2_20200323012444.csv"}
+]
+}

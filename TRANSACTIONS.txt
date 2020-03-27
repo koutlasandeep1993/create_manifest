@@ -1,0 +1,6 @@
+folder1/file_prefix1
+folder2/file_prefix2
+folder3/file_prefix3
+folder4/file_prefix4
+folder5/file_prefix5
+folder6/file_prefix6
